@@ -15,7 +15,7 @@
 #
 
 # Screen density
-PRODUCT_AAPT_PREF_CONFIG := xxhdpi
+PRODUCT_AAPT_PREF_CONFIG := xhdpi
 PRODUCT_AAPT_CONFIG := normal
 
 # Dalvik heap and hwui memory limits
